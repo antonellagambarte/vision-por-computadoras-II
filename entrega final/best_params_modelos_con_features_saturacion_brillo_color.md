@@ -16,7 +16,7 @@ num_layers   : 3
 dropout      : 0.1353970008207678
 optimizer    : SGD
 weight_decay : 9.462175356461487e-06
-
+```
 ---
 
 ## Optimización V3
